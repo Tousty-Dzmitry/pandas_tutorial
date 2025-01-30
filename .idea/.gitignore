@@ -1,3 +1,17 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+# Игнорировать кэшированные Python файлы
+__pycache__/
+
+# Игнорировать директории
+Untitled Folder/
+../.idea/
+.ipynb_checkpoints/
+
+
+# Игнорировать сам файл .gitignore и версию Python
+.gitignore
+.python-version
+
